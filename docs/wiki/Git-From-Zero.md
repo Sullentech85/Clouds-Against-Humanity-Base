@@ -538,3 +538,8 @@ Related pages:
 - [Patch management and automatic security updates](Patch-Management-and-Automatic-Security-Updates.md)
 - [Red and blue, and choosing your lab OS](Red-and-Blue-Yin-and-Yang-and-Your-Lab-OS.md)
 <!-- END GENERATED PAGE NAV bottom -->
+
+
+---
+
+**See also in the companion reference library:** [Book of Secret Knowledge](https://github.com/Sullentech85/Sullen-the-book-of-secret-knowledge#cli-tools-toc) — broader tool catalog and one-liners for this topic.

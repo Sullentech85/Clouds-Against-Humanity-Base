@@ -1018,3 +1018,8 @@ Related pages:
 - [Cron, systemd timers and init scripts versus systemd](Cron-Systemd-Timers-and-Init-Scripts-vs-Systemd.md)
 - [Windows, Active Directory and macOS](Windows-Active-Directory-and-macOS-in-the-Enterprise.md)
 <!-- END GENERATED PAGE NAV bottom -->
+
+
+---
+
+**See also in the companion reference library:** [Book of Secret Knowledge](https://github.com/Sullentech85/Sullen-the-book-of-secret-knowledge#networks-toc) — broader tool catalog and one-liners for this topic.

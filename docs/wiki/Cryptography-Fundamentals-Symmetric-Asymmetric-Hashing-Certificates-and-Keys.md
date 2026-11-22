@@ -638,3 +638,8 @@ Related pages:
 - [How a web request works](How-a-Web-Request-Works.md)
 - [Doppler and secrets](Doppler-and-Secrets.md)
 <!-- END GENERATED PAGE NAV bottom -->
+
+
+---
+
+**See also in the companion reference library:** [Book of Secret Knowledge](https://github.com/Sullentech85/Sullen-the-book-of-secret-knowledge#manualshowtostutorials-toc) — broader tool catalog and one-liners for this topic.

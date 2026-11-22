@@ -123,3 +123,8 @@ Related pages:
 - [Identity, secrets, zero trust](Identity-Secrets-and-Zero-Trust-Basics.md)
 - [Architecture overview](Architecture-Overview.md)
 <!-- END GENERATED PAGE NAV bottom -->
+
+
+---
+
+**See also in the companion reference library:** [Book of Secret Knowledge](https://github.com/Sullentech85/Sullen-the-book-of-secret-knowledge#containersorchestration-toc) — broader tool catalog and one-liners for this topic.
