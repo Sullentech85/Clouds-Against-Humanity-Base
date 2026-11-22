@@ -128,3 +128,8 @@ Related pages:
 - [Cloud telemetry: what and why](Cloud-Telemetry-What-and-Why.md)
 - [Multiple sites and identity](Multiple-Sites-and-Identity.md)
 <!-- END GENERATED PAGE NAV bottom -->
+
+
+---
+
+**See also in the companion reference library:** [Book of Secret Knowledge](https://github.com/Sullentech85/Sullen-the-book-of-secret-knowledge#hackingpenetration-testing-toc) — broader tool catalog and one-liners for this topic.
