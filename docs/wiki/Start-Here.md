@@ -17,6 +17,10 @@ It now contains a **6-Layer Learning Path** index near the top that groups tools
 4. Return to the existing Clouds stages once the foundations are comfortable
 
 ## Mission Stubs
+- [Web Basics Mission](Web-Basics-Mission.md)
+- [Guided Path Notes](Guided-Path-Notes.md)
+- [Own Lab Mission](Own-Lab-Mission.md)
+- [Project Mission](Project-Mission.md)
 - [Linux Basics Mission](Linux-Basics-Mission.md)
 - [Network Capture Mission](Network-Capture-Mission.md)
 
