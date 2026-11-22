@@ -321,3 +321,7 @@ Everything is also collected at **[support.chiefgyk3d.com](https://support.chief
 </div>
 
 <div align="center"><sub>Made with ❤️ by <a href="https://github.com/ChiefGyk3D">ChiefGyk3D</a></sub></div>
+
+## Start Here
+If you are new, begin with the [Start Here](docs/wiki/Start-Here.md) page.
+
